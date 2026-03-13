@@ -1,4 +1,4 @@
-### Zasady i sposób wysyłania zadań: (uzupełnię dziś wieczorem, pokazujemy na lekcji)
+### Zasady i sposób wysyłania zadań: ()
 ---
 
 Aby zdobyć bonusy, potrzebujemy:
@@ -21,3 +21,7 @@ los_1 = random.randint(1, 100) # Losuje liczbę od 1 do 100 włącznie
 print(los_1)
 ```
 proszę napisać program, który losuje trzy dowolne liczby od 1 do 50, a następnie wypisuje je. Kod proszę opatrzyć **komentarzami**, które wyjaśniają jego działanie!
+
+
+AquaQ ⭐➕➕
+NeonKitty ⭐➕

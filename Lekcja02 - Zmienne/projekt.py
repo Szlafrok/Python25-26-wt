@@ -27,3 +27,25 @@ print(suma)
 typ_1 = 12 # liczba całkowita -> int (integer)
 typ_2 = "abc" # tekst (ciąg znaków) -> str (string)
 typ_3 = 13.5 # liczba zmiennoprzecinkowa -> float
+typ_4 = True # typ logiczny prawda/fałsz -> bool
+
+print(type(typ_1))
+print(type(typ_2))
+print(type(typ_3))
+print(type(typ_4))
+
+# int()
+# str()
+
+wiek = 50
+tekst = "Mój wiek wynosi "
+
+wiek = str(wiek)
+
+print(tekst + wiek)
+
+tekst_1 = "10"
+tekst_2 = "stonks internet u mnie wrócił lubię jeść jeść jeść lubię jeść banany bananynany"
+
+liczba_1 = int(tekst_1)
+#liczba_2 = int(tekst_2) BŁĄD!

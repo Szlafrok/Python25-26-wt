@@ -21,3 +21,9 @@ suma = liczba_1 + liczba_2
 print(suma)
 
 # print(tekst_1 + liczba_1) BŁAD
+
+# -------------------------------
+
+typ_1 = 12 # liczba całkowita -> int (integer)
+typ_2 = "abc" # tekst (ciąg znaków) -> str (string)
+typ_3 = 13.5 # liczba zmiennoprzecinkowa -> float

@@ -1,4 +1,4 @@
-### Zasady i sposób wysyłania zadań: ()
+### Zadania pokazujemy przed zajęciami lub tuż po zajęciach!
 ---
 
 Aby zdobyć bonusy, potrzebujemy:
@@ -8,10 +8,10 @@ Aby zdobyć bonusy, potrzebujemy:
 | ⭐➕ | 5 pkt |
 | ⭐➕➕ | 6 pkt |
 
-### Zadanie L1-1 (3p)
+### Zadanie 1 (3p)
 Proszę wymyślić i przesłać mi (przez formularz na końcu zajęć) pseudonim, pod którym będą się wyświetlały Twoje gwiazdki na tablicy wyników!
 
-### Zadanie L1-2 (3p)
+### Zadanie 2 (3p)
 W języku Python możemy korzystać z różnych **bibliotek**, które poszerzają nasze możliwości. Jedną z tych bibliotek jest `random`, która pozwala dokonywać różnych czynności związanych z losowaniem. Wykorzystując podany kod jako wzorzec:
 
 ```py

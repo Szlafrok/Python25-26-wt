@@ -62,5 +62,10 @@ print(wiek + 1)
 # LICZBĘ CAŁKOWITĄ (int) i również zapisać go do zmiennej.
 
 # Następnie na bazie informacji z czata GPT, proszę zapisać
-# w jednym zdaniu: "Hej, jestem {imię} i za rok będę mieć {wiek} lat."
+# w jednym zdaniu: "Hej, jestem {imię} i za rok będę mieć {wiek + 1} lat."
 # Proszę użyć f-stringa.
+
+imie = input("Jak się nazywasz? ")
+wiek = int(input("Ile masz lat? "))
+
+print(f"Jestem {imie} i za rok będę miała {wiek + 1} lat")

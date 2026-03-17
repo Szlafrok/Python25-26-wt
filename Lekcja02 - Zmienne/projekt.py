@@ -49,3 +49,18 @@ tekst_2 = "stonks internet u mnie wrócił lubię jeść jeść jeść lubię je
 
 liczba_1 = int(tekst_1)
 #liczba_2 = int(tekst_2) BŁĄD!
+
+imie = input("Jak masz na imię? ")
+print(imie)
+
+wiek = int(input("Ile masz lat? "))
+print(wiek)
+print(wiek + 1)
+
+# Proszę za pomocą funkcji input wczytać od użytkownika imię i
+# zapisać je do zmiennej. Proszę następnie wczytać jego wiek jako
+# LICZBĘ CAŁKOWITĄ (int) i również zapisać go do zmiennej.
+
+# Następnie na bazie informacji z czata GPT, proszę zapisać
+# w jednym zdaniu: "Hej, jestem {imię} i za rok będę mieć {wiek} lat."
+# Proszę użyć f-stringa.

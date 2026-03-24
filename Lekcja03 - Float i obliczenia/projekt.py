@@ -72,8 +72,10 @@ wynik = math.sqrt(x)
 print(f"Pierwiastek: {wynik}")
 
 
-# Dzielenie z resztą
-# wynik = x  y
-
+# Dzielenie z resztą: 5 : 2 = 2, 
+wynik = y % x
+print(f"Reszta z dzielenia: {wynik}")
 
 # Dzielenie całkowite
+wynik = y // x
+print(f"Dzielenie całkowite: {wynik}")

@@ -23,6 +23,8 @@ Proszę napisać program, który zmienia wartości w liście - podnosi je do pot
 
 Proszę stworzyć program, który sortuje elementy listy rozdzielając je według typu. Lista wszystkich elementów: `list_all`, listy posegregowane: `list_int`, `list_str`, itd. Można założyć, że w liście są wyłącznie elementy typu `int`, `str`, `float`, `bool`.
 
+---
+
 ### Zadanie 3 `3 pkt`
 
 Metody listy pozwalają na wykonywanie operacji i uzyskiwanie informacji o liście, podobnie jak `lista.append()` pozwala dopisywać wartość na końcu listy. Prosze poszukać i opowiedzieć trenerowi o metodach listy: `lista.count()`, `lista.extend()` oraz `lista.pop()`.

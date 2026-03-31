@@ -28,7 +28,7 @@ Pobierz od użytkownika długości dwóch przyprostokątnych trójkąta i wyznac
 a**2 + b**2 == c**2
 ```
 
-Beniamin (poprawka)
+Beniamin 2
 Maks 2
 
 W tym zadaniu możesz uczyć ChatGPT do pomocy, ale musisz **rozumieć** jak działa Twoje rozwiązanie!

@@ -19,3 +19,5 @@ print(f"Czy pełnoletni: {czy_pelnoletni}")
 
 czy_polak = input("Czy jesteś polakiem? (tak/nie)") == "tak"
 print(f"Polak: {czy_polak}")
+
+# https://meet.google.com/uhw-rdkn-txx

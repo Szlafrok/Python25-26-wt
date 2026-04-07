@@ -60,3 +60,6 @@ wyrazy = ["drydry", "rzapka", "szponcic", "sokowirówka", "kebs", "karaiby"]
 
 # b) Do wypisywanych linijek proszę dodać informację o długości wyrazu
 # - proszę użyć funkcji len()
+
+for i in range(6): # range(6) też jest dobrze! Przedział: [0, 1, 2, 3, 4, 5]
+    print(f"{i} - {wyrazy[i]}. Długość {len(wyrazy[i])}")

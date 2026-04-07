@@ -45,3 +45,18 @@ n = len(produkty) # 5
 for i in range(n): # range(5): 0, 1, 2, 3, 4 -> PRZECHOWYWANE W ZMIENNEJ i
     print(f"Indeks {i}")
     print(f"{produkty[i]} - cena {ceny[i]} zł")
+
+
+# -------- ZADANIE SAMODZIELNE ---------
+
+wyrazy = ["drydry", "rzapka", "szponcic", "sokowirówka", "kebs", "karaiby"]
+# a) Proszę napisać pętlę for na podstawie poprzednich zadań, tak aby
+# ta pętla wypisała kolejne indeksy elementów listy oraz ich treść
+
+# Indeks 0 - drydry
+# Indeks 1 - rzapka
+# ...
+# Indeks 5 - karaiby
+
+# b) Do wypisywanych linijek proszę dodać informację o długości wyrazu
+# - proszę użyć funkcji len()

@@ -21,31 +21,37 @@ print("--------------------------")
 wyr = 5 >= 3 # Prawda
 wyr = 5 >= 5 # Prawda
 wyr = 5 >= 8 # Fałsz
+# Przeciwny: <
 
 # Mniejsze lub równe
-wyr = 5 <= 3
-wyr = 5 <= 5
-wyr = 5 <= 8
+wyr = 5 <= 3 # Fałsz
+wyr = 5 <= 5 # Prawda
+wyr = 5 <= 8 # Prawda
+# Przeciwny: >
 
 # Mniejsze
-wyr = 5 < 3
-wyr = 5 < 5
-wyr = 5 < 8
+wyr = 5 < 3 # Fałsz
+wyr = 5 < 5 # Fałsz
+wyr = 5 < 8 # Prawda
+# Przeciwny: >=
 
 # Większe
-wyr = 5 > 3
-wyr = 5 > 5
-wyr = 5 > 8
+wyr = 5 > 3 # Prawda
+wyr = 5 > 5 # Fałsz
+wyr = 5 > 8 # Fałsz
+# Przeciwny: <=
 
 # Różne
-wyr = 5 != 3
-wyr = 5 != 5
-wyr = 5 != 8
+wyr = 5 != 3 # Prawda
+wyr = 5 != 5 # Fałsz
+wyr = 5 != 8 # Prawda
+# Przeciwny: ==
 
 # Równe
-wyr = 5 == 3
-wyr = 5 == 5
-wyr = 5 == 8
+wyr = 5 == 3 # Fałsz
+wyr = 5 == 5 # Prawda
+wyr = 5 == 8 # Fałsz
+# Przeciwny: !=
 
 # Zadanie samodzielne: (++) napisać przy każdym wyrażeniu czy jest Prawdziwe czy Fałszywe
 # Z gwiazdką (+): Do każdego operatora dopasować PRZECIWNY

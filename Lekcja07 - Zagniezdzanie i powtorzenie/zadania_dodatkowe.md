@@ -48,6 +48,7 @@ Funkcja `.islower()` zwraca `True` jeśli dana litera (lub tekst) składa się w
 
 Można wspomóc się sztuczną inteligencją, ale trzeba wówczas być gotowym na opowiedzenie o swoim kodzie przy oddawaniu zadania!
 
+---
 
 ### Zadania Trudniejsze 🏆
 Jedno z dwóch zadań wykonane poprawnie daje gwiazdkę!

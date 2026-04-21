@@ -16,10 +16,10 @@ Przygotowałem prostszy zestaw kilku zadań, oraz trudniejszy zestaw dwóch. Do 
 
 ---
 
-### Zadania Łatwiejsze 🎯
+## Zadania Łatwiejsze 🎯
 Dwa z czterech zadań wykonane poprawnie dają gwiazdkę!
 
-#### Zadanie 1 (2 pkt)
+### Zadanie 1 (2 pkt)
 Zapisz do zmiennej wiek użytkownika jako liczbę całkowitą (`int`). Do drugiej zmiennej proszę zapisać wartość logiczną `True/False`, która określa, czy ma zgodę rodzica. Nie trzeba korzystać z `input()`, można podać gotowe wartości.
 
 Następnie proszę napisać instrukcję warunkową `if-else`, która sprawdza czy użytkownik ma co najmniej 18 lat **lub** ma zgodę rodzica. Użytkownik powinien dostać informację, czy może zapisać się na wycieczkę, czy nie.
@@ -50,10 +50,10 @@ Można wspomóc się sztuczną inteligencją, ale trzeba wówczas być gotowym n
 
 ---
 
-### Zadania Trudniejsze 🏆
+## Zadania Trudniejsze 🏆
 Jedno z dwóch zadań wykonane poprawnie daje gwiazdkę!
 
-#### Zadanie 1 (5 pkt)
+### Zadanie 1 (5 pkt)
 Wczytaj od użytkownika hasło. Następnie należy sprawdzić:
 - czy to hasło ma od 8 do 20 znaków
 - czy zawiera co najmniej jedną literę wielką
@@ -64,7 +64,7 @@ Program powinien wypisać informację, czy to hasło spełnia wymagania. Dodatko
 
 Przydatne funkcje: `.isupper()`, `.islower()`, `.isdigit()`, `len()`
 
-#### Zadanie 2 (5 pkt)
+### Zadanie 2 (5 pkt)
 Dana jest lista `T`, która zawiera `N` liczb naturalnych. Proszę napisać program, który policzy i wypisze, ile jest takich liczb w tej tablicy, które są większe od liczby na poprzedniej pozycji.
 
 Przykład: W liście `[1, 5, 6, 3, 4, 2]` są 3 takie liczby: 5 (bo jest większe od 1), 6 (bo jest większe od 5) oraz 4 (bo jest większe od 3).

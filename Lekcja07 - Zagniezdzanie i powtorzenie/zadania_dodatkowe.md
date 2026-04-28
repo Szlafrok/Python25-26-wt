@@ -76,3 +76,12 @@ N = len(T)
 
 # Miejsce na Twoje rozwiązanie
 ```
+
+
+Beniamin: 🎁❓ 18p
+L1 - 2p
+L2 - 2p
+L3 - 2p
+L4 - 2p
+L5 - 5p
+L6 - 5p

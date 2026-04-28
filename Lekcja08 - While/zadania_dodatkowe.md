@@ -23,3 +23,5 @@ Proszę napisać skrypt który wczytuje od użytkownika liczbę sekund a następ
 
 ### Zadanie 2 (4p)
 Proszę napisać program, który wybiera losową liczbę od 1 do 100 `random.randint()` a następnie pyta gracza o liczbę. Jeśli gracz poda za dużą liczbę, pisze "Za dużo", jeśli za małą to pisze "Za mało", a jeśli zgadnie, gra się kończy. Gra powinna trwać tak długo, aż gracz zgadnie liczbę - na zasadzie "Gracz zgaduje - komputer mówi czy za mało/za dużo/zgadł" - jeśli nie zgadł to cykl się potwarza".
+
+Stefan 2.5 / 4

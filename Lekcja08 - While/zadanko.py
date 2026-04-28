@@ -7,3 +7,11 @@ LOGIN = "szlafrok"
 
 # Należy zapisać wartości funkcją input() do zmiennych i wykorzystać 
 # słowo IF wraz z operatorami logicznymi.
+
+login = input("Login: ")
+haslo = input("Hasło: ")
+
+if login == LOGIN and haslo == HASLO:
+    print("OK")
+else:
+    print("BŁĄD")

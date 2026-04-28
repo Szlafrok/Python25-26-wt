@@ -18,3 +18,7 @@ if x > 3: # zagnieżdżenie
     print("większy od 3")
     if x % 2 == 0:
         print("parzysty")
+
+
+# hasla = {"abc": 1234, "def": 4567}
+# print(hasla["def"])

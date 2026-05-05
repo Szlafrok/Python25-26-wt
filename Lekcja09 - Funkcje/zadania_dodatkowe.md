@@ -10,7 +10,7 @@ Aby zdobyć bonusy, potrzebujemy:
 | ⭐➕ | 5 pkt |
 | ⭐➕➕ | 6 pkt |
 | ⭐➕➕➕ | 9 pkt |
-
+| 🎁❓ | 15 pkt |
 
 ---
 
@@ -21,6 +21,16 @@ Napisz funkcję `predkosc(droga, czas)`, która przyjmuje jako argumenty:
 - `droga`: dystans przebyty przez podróżnika w kilometrach (km)
 - `czas`: czas podróży w godzinach (h)
 i **ZWRACA** (nie printuje, zwraca!) średnią prędkość podróżnika w km/h.
+
+### Zadanie 2 `2 pkt`
+Napisz funkcję `pole_trapezu(a, b, h)`, która przyjmuje jako argumenty:
+- `a`: podstawę dolną trapezu
+- `b`: podstawę górną trapezu
+- `h`: wysokość trapezu
+i **ZWRACA** (nie printuje, zwraca!) pole trapezu wyrażone wzorem (a+b)*h / 2
+
+### Zadanie 3 `2 pkt` (lub więcej)
+Popisz się
 
 ---
 

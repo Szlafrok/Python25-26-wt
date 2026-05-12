@@ -32,6 +32,8 @@ i **ZWRACA** (nie printuje, zwraca!) pole trapezu wyrażone wzorem (a+b)*h / 2
 ### Zadanie 3 `2 pkt` (lub więcej)
 Popisz się
 
+
+Beniamin 10 / 6
 ---
 
 ## Zadania Trudniejsze 🏆
@@ -105,4 +107,4 @@ Proszę opatrzyć sprawdzarkę komentarzami wyjaśniającymi jej działanie lub 
 
 
 
-Stefan ++
+AquaQ ++

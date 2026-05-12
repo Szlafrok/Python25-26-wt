@@ -102,3 +102,7 @@ check(2) # Wprowadź numer zadania i uruchom program, aby przetestować swoje ro
 
 ### Zadanie 3 `2 pkt`
 Proszę opatrzyć sprawdzarkę komentarzami wyjaśniającymi jej działanie lub omówić trenerowi działanie sprawdzarki na koniec lekcji.
+
+
+
+Stefan ++

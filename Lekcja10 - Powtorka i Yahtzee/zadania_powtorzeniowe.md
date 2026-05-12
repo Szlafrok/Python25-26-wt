@@ -1,4 +1,4 @@
-1. Uzupełnij poniższy program tak, aby wypisywał 
+1. Uzupełnij poniższy program tak, aby wypisywał prośby o logowanie do momentu, kiedy użytkownik poda hasło zgodne z tym zapisanym w stałej `HASLO`
 
 
 ```py

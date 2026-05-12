@@ -1,0 +1,1 @@
+IMAGE_PATH = "Poprawione zadania/Arkanoid/RawrkanoidStasiek/assets"

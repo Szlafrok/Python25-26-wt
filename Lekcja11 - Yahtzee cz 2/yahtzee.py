@@ -31,16 +31,47 @@ def czy_przerzucamy() -> bool:
     return False
 
 
+def wybierz_pole_punktowe():
+    wybrane_pole = int(input("Podaj numer pola, które chcesz zająć (1-6): ")) # od 1 do 6
+    while wartosci[wybrane_pole - 1] != "---":
+        wybrane_pole = int(input("Podaj numer pola, które chcesz zająć (1-6): "))
+    return wybrane_pole
+
+def policz_punkty(numer_pola):
+    wynik = 0
+
+    for kosc in kosci: # for i in range(5)
+        if kosc == numer_pola: # if kosci[i] == numer_pola
+            wynik += kosc # kosci[i]
+
+    return kosc
+
+    # Utwórz zmienną "wynik" o wartości 0
+    # Za pomocą pętli for przejdź po każdej wartości w kościach:
+        # Jeżeli wartość kości jest równa numerowi pola:
+            # Zwiększ wynik o wartość tej kości
+    # Zwróć zmienną wynik
+
 rzut_koscmi('54321')
 pokaz_kosci()
 
-for i in range(2):
-    czy_przerzut = czy_przerzucamy()
+while True:
+    for i in range(2):
+        czy_przerzut = czy_przerzucamy()
 
-    if czy_przerzut:
-        kosci_do_przerzutu = input("Wypisz numery kości do przerzutu - bez spacji. ") # '1345'
-        rzut_koscmi(kosci_do_przerzutu)
-        pokaz_kosci()
+        if czy_przerzut:
+            kosci_do_przerzutu = input("Wypisz numery kości do przerzutu - bez spacji. ") # '1345'
+            rzut_koscmi(kosci_do_przerzutu)
+            pokaz_kosci()
 
-    else:
+        else:
+            break
+
+    pokaz_wyniki()
+    pole = wybierz_pole_punktowe() # od 1 do 6
+    wartosci[pole - 1] = policz_punkty(pole)
+
+    if not "---" in wartosci:
         break
+
+print(f"{sum(wartosci)} - końcowy wynik")

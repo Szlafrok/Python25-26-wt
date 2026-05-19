@@ -44,7 +44,7 @@ def policz_punkty(numer_pola):
         if kosc == numer_pola: # if kosci[i] == numer_pola
             wynik += kosc # kosci[i]
 
-    return kosc
+    return wynik
 
     # Utwórz zmienną "wynik" o wartości 0
     # Za pomocą pętli for przejdź po każdej wartości w kościach:
@@ -74,4 +74,5 @@ while True:
     if not "---" in wartosci:
         break
 
+pokaz_wyniki()
 print(f"{sum(wartosci)} - końcowy wynik")

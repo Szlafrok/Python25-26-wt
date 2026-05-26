@@ -1,0 +1,1 @@
+Proszę utworzyć program, który utworzy tabelkę 2x2 - czyli siatkę złożoną z kwadratu i dwóch linii przecinających się na środku.

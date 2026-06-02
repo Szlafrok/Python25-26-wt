@@ -35,5 +35,8 @@ turtle.color('yellow') # żółty
 turtle.goto(-100, 100)
 turtle.dot()
 
+turtle.color('black')
+turtle.home()
+
 turtle.exitonclick()
 

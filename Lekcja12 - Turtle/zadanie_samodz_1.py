@@ -31,5 +31,5 @@ def trojkat():
         turtle.left(120)
     print("OK")
 
-trojkat()
+kwadrat()
 turtle.exitonclick()

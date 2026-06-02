@@ -5,9 +5,6 @@ turtle.pensize(3) # rozmiar pisaka
 turtle.fillcolor("#7374C1") # kolor wypełnienia
 
 turtle.begin_fill()
-for i in range(4):
-    turtle.forward(100)
-    turtle.left(45)
 for i in range(4): # część KOLOROWANA
     turtle.forward(100)
     turtle.left(45)

@@ -6,12 +6,13 @@
 # - square
 # - triangle
 
-# następnie należy ukryć żółwia poleceniem hide() 
+# następnie należy ukryć żółwia poleceniem hideturtle() 
 
 # KWADRAT NALEZY TWORZYĆ BEZ POLECEŃ FORWARD ANI BACK - TYLKO GOTO()
 # BAZA - (+++)
 
-
+# DODATKOWE (+)
+# Proszę określić wymiary okna jako 300 x 300
 
 # DODATKOWE (++)
 # Proszę zaprogramować stemplowanie tak, aby wszystkie cztery figury

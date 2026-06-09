@@ -11,5 +11,7 @@ Do naszej dyspozycji jest funkcja
 ```py
 def oblicz_kat(n):
     return 360 / n
+
+t.left(oblicz_kat(n))
 ```
 która liczy, o ile stopni należy się obrócić, aby narysować kolejny bok wielokąta (przykładowo, dla kwadratu za każdym bokiem obracamy się o 90 stopni)

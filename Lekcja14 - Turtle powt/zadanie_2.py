@@ -12,8 +12,8 @@ def kwadrat(x, y, kolor): # zbuduje kwadrat o boku 30 i wypełni go kolorem
     # left
 
     # fillcolor
-    # beginfill
-    # endfill
+    # begin_fill
+    # end_fill
 
 for i in range(5):
 

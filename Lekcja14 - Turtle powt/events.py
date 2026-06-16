@@ -10,6 +10,6 @@ def after_click(x, y):
     t.dot(10)
     t.up()
 
-t.onscreenclick(print)
+t.onscreenclick(after_click)
 
 t.done()

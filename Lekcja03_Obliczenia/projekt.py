@@ -21,3 +21,20 @@ print(wartosc)
 
 wartosc = float(2)
 print(wartosc)
+
+wartosc = str(12.5)
+print(wartosc)
+
+# -----------
+wartosc = int("20") # OK
+print(wartosc)
+
+wartosc = int("-5") # OK
+#wartosc = int("1.0") # BŁĄD
+#wartosc = int("1.2") # BŁĄD
+#wartosc = int("kosiarka") # Czemu w ogóle o tym rozmawiamy?
+
+wartosc = float("-5") # OK
+wartosc = float("1.0") # OK
+wartosc = float("1.2") # OK
+# wartosc = float("kosiarka") # Czemu w ogóle o tym rozmawiamy?

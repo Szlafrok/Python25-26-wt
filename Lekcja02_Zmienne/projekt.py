@@ -14,9 +14,9 @@ print(wiek) # 50
 
 # ---------------------
 
-print(5 ** 2) # 25 - 
-print(147 // 10) # 14 - 
-print(147 % 10) # 7 -
+print(5 ** 2) # 25 - potęgowanie
+print(147 // 10) # 14 - dzielenie całkowite
+print(147 % 10) # 7 - modulo (reszta z dzielenia)
 
 # ---------------------
 

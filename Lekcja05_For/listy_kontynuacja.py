@@ -18,3 +18,5 @@ print(min(liczby)) # najmniejsza
 print(sum(liczby)) # suma wszystkich liczb
 
 print(sum(liczby) / len(liczby))
+
+# kebab jako tako

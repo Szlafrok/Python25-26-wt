@@ -1,5 +1,6 @@
 LOGIN_POPR = "admin"
 HASLO_POPR = "qwerty123456" # bezpieczeństwo to moja pasja!
+LIMIT = 3
 
 # Proszę napisać program, który do zmiennej 'login' zapisuje
 # podany przez użytkownika login, a następnie do zmiennej 'haslo'
@@ -7,11 +8,19 @@ HASLO_POPR = "qwerty123456" # bezpieczeństwo to moja pasja!
 # if/else, operatora 'and' oraz znaku porównania == napisać program,
 # który poinformuje nas, czy podane dane logowania są poprawne, czy nie.
 
-login = input("Podaj login: ")
-haslo = input("Podaj hasło: ")
+bledy = 0
 
-if login == LOGIN_POPR and haslo == HASLO_POPR:
-    print("Zalogowano poprawnie!")
-else:
-    print("No i gagatku dałeś złe dane :P")
+while bledy < LIMIT:
+    login = input("Podaj login: ")
+    haslo = input("Podaj hasło: ")
 
+    if login == LOGIN_POPR and haslo == HASLO_POPR:
+        print("Zalogowano poprawnie!")
+        break
+    else:
+        print("No i gagatku dałeś złe dane :P")
+        bledy += 1
+
+
+while True:
+    break
